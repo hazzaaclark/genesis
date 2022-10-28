@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp
 
 ``CISC Instruction Set:`` https://en.wikipedia.org/wiki/Complex_instruction_set_computer
 
-``RISC ARM Programming in C:`` https://www.youtube.com/watch?v=gPBsoOefyUk
+``RISC ARM Programming in C:`` https://www.youtube.com/watch?v=-Qmne2YuwDI&list=PLgIjRMdFBe6uhhko53nOU30T0u-wvoDG9
